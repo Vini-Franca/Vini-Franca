@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinicius França</h1>
-<h3 align="center">A QA passionate about testing and catching BUGS from Brazil</h3>
+<h3 align="center">A QA passionate about testing and catching BUGS</h3>
 
-- 🌱 I’m currently learning **Java, Cypress, automation mobile, web with cucumber and API test**
+- 🌱 I’m currently learning **Java, Cypress, Automation Web with Cucumber and API Test**
 
 - 📫 How to reach me **vinicius_santana_rf@hotmail.com**
 
