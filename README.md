@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinicius França</h1>
 <h3 align="center">A QA passionate about testing and catching BUGS</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vini-franca" alt="vini-franca" /></a> </p>
-
 - 🌱 I’m currently learning **Java, Cypress, automation mobile, web with cucumber and API test**
 
 - 📫 How to reach me **vinicius_santana_rf@hotmail.com**
